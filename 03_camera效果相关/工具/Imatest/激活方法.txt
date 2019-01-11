@@ -1,0 +1,12 @@
+1.双击程序Imatest-3.3，程序自动安装
+2.点击桌面图标运行程序
+3.出现"imatest_welcome界面"，点击右上角的"Register" 
+  出现"Register Imatest"界面，点击右下角的Offline activation
+  出现"Manual(offline) Activation"界面，输入Keygen产生的 
+Activation Key,点击OK
+4
+  Keygen产生Key:
+     运行Keygen程序，输入"Manual(offline) Activation"界面中的
+Request代码，点击Generate，产生的Sn即为Key.
+
+Note:图片得放在英文Folder下才能计算
